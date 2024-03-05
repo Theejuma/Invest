@@ -1,4 +1,4 @@
-# smartingestpro
+# smartinvestpro
 Smartingestpro: inspire investors for successful investment
 ```html
 <!DOCTYPE html>
